@@ -1,0 +1,233 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    color: black;
+    line-height: 1.3;
+    padding-bottom: 100px;
+}
+
+a.breadlink:hover {
+    color:rgb(0,8,255);
+}
+
+a.breadlink:active {
+    color:rgb(0,8,255);
+    text-decoration: underline dotted;
+}
+
+.indexlink {
+    font-size: 54px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+a.indexlink:hover {
+    color: rgb(0,8,255);
+    padding-top: 20px;
+}
+
+h2 {
+    font-size: 34px;
+    font-weight: normal;
+}
+h3 {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+a.navlink:hover {
+    color: rgb(0,8,255);
+}
+
+a.navlink:active {
+    color: rgb(0,8,255);
+    text-decoration: underline dotted;
+}
+
+.bodytext {
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 175px;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.header {
+    padding-bottom: 50px;
+}
+
+a.sup {
+    vertical-align: super;
+    font-size: 12px;
+    color: rgb(0,8,255);
+    text-decoration: underline;
+}
+
+.pagenumber{
+    float:right;
+    padding: 15px;
+}
+
+.left{
+    float:left;
+}
+
+.breadcrumb{
+    font-size: 16px;
+    font-weight: normal;
+    position: relative;
+    bottom: 21px;
+    padding-left: 10px;
+}
+
+.pagelink {
+    padding-left: 20px;
+    padding-top: 50px;
+}
+
+.footnote {
+    color: black;
+    font-size: 12px;
+    padding-top: 25px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.em {
+    font-style: italic;
+}
+
+a.og-text {
+    float: right;
+    padding: 15px;
+}
+
+.og-text:hover {
+    color: rgb(0,8,255);
+}
+
+.og-text:active {
+    color: rgb(0,8,255);
+    text-decoration: underline dotted;
+}
+
+@media all and (max-width: 320px) {
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    color: black;
+    line-height: 1.3;
+    padding-bottom: 100px;
+}
+
+a.breadlink:hover {
+    color:rgb(0,8,255);
+}
+
+a.breadlink:active {
+    color:rgb(0,8,255);
+    text-decoration: underline dotted;
+}
+
+.indexlink {
+    font-size: 108px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+a.indexlink:hover {
+    color: rgb(0,8,255);
+    padding-top: 20px;
+}
+
+h2 {
+    font-size: 68px;
+    font-weight: normal;
+}
+h3 {
+    font-size: 32px;
+    font-weight: normal;
+}
+
+a.navlink:hover {
+    color: rgb(0,8,255);
+}
+
+a.navlink:active {
+    color: rgb(0,8,255);
+    text-decoration: underline dotted;
+}
+
+.bodytext {
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 175px;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.header {
+    padding-bottom: 50px;
+}
+
+a.sup {
+    vertical-align: super;
+    font-size: 24px;
+    color: rgb(0,8,255);
+    text-decoration: underline;
+}
+
+.pagenumber{
+    float:right;
+    padding: 15px;
+    position: relative;
+    top: 20px;
+}
+
+.left{
+    float:left;
+}
+
+.breadcrumb{
+    font-size: 32px;
+    font-weight: normal;
+    position: relative;
+    bottom: 42px;
+    padding-left: 10px;
+}
+
+.pagelink {
+    padding-left: 20px;
+    padding-top: 50px;
+}
+
+.footnote {
+    color: black;
+    font-size: 24px;
+    padding-top: 25px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.em {
+    font-style: italic;
+}
+
+a.og-text {
+    float: right;
+    padding: 15px;
+}
+
+.og-text:hover {
+    color: rgb(0,8,255);
+}
+
+.og-text:active {
+    color: rgb(0,8,255);
+    text-decoration: underline dotted;
+}
+  }
